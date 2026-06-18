@@ -36,7 +36,7 @@ Instructions for a local Python installation will be added later.
 
 ## Repository Structure
 
-The examples are organised by topic and can be explored in order.
+The examples are organized by topic and can be explored in order.
 
 ```text
 examples/
@@ -45,6 +45,14 @@ examples/
 │   ├── 02_plot_styling.py
 │   ├── 03_plot_textbookstyle.py
 │   └── 04_exercises.py
+│
+├── B_symbolic_computation/
+│   ├── 01_symbolic_derivative.py
+│   ├── 02_pretty_printing.py
+│   ├── 03_latex_output.py
+│   ├── 04_symbolic_integral.py
+│   └── 05_exercises.py
+│
 └── ...
 ```
 
@@ -61,7 +69,7 @@ Then experiment by modifying the code:
 
 The examples are intentionally small and heavily commented.
 
-The examples are organised in a recommended order, but feel free to explore them at your own pace.
+The examples are organized in a recommended order, but feel free to explore them at your own pace.
 
 ## Examples
 
@@ -76,9 +84,19 @@ The first topic introduces plotting with Matplotlib:
 
 ### B. Symbolic Computation
 
+The second topic introduces symbolic mathematics with SymPy:
+
+- symbolic differentiation
+- symbolic integration
+- pretty printing
+- LaTeX output
+- practice exercises
+
+### C. Solving Equations
+
 Will be added soon.
 
-### C. Simulation
+### D. Simulation
 
 Will be added soon.
 
