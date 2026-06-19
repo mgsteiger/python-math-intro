@@ -1,6 +1,6 @@
 # Python Math Intro
 
-A gentle introduction to Python for mathematical exploration, visualization, symbolic computation and simulation.
+A gentle introduction to Python for mathematics, visualization, symbolic computation and simulation.
 
 This repository contains examples and resources demonstrating how Python can be used to:
 
@@ -10,7 +10,7 @@ This repository contains examples and resources demonstrating how Python can be 
 - run simulations
 - explore probability and statistics
 
-No prior programming experience is required.
+No prior Python experience is required.
 
 ## Getting Started
 
@@ -23,14 +23,14 @@ Open https://webtigerpython.ethz.ch in your browser and either:
 - copy and paste one of the example files
 - upload an example file directly
 
-WebTigerPython provides a simple environment for experimenting with Python and includes many commonly used mathematical packages.
+WebTigerPython provides a simple environment for experimenting with Python and includes many commonly used scientific and mathematical packages.
 
 ### Option 2: Local Installation
 
 Install:
 
 - Python
-- VS Code (optional)
+- VS Code (recommended)
 
 Instructions for a local Python installation will be added later.
 
@@ -65,7 +65,13 @@ examples/
 │   ├── 03_function_analysis.py
 │   └── 04_exercises.py
 │
-└── ...
+└── E_simulations/
+    ├── 01_monte_carlo_pi.py
+    ├── 02_monte_carlo_pi_accuracy.py
+    ├── 03_coin_flips.py
+    ├── 04_law_of_large_numbers.py
+    ├── 05_binomial_distribution.py
+    └── 06_exercises.py
 ```
 
 ## How to Use This Repository
@@ -106,7 +112,7 @@ The second topic introduces symbolic mathematics with `SymPy`:
 
 ### C. Solving Equations
 
-The third topic introduces equation solving with SymPy:
+The third topic introduces equation solving with `SymPy`:
 
 - linear equations
 - quadratic equations
@@ -124,11 +130,41 @@ The fourth topic combines plotting and symbolic computation:
 
 ### E. Simulations
 
-Coming soon.
+The fifth topic introduces probabilistic simulations:
+
+- Monte Carlo estimation of π
+- coin flips
+- law of large numbers
+- binomial distributions
+- practice exercises
 
 ## Resources
 
-Useful links, references and additional learning resources will be added over time.
+### Python
+
+- Python: https://www.python.org
+- Python Tutorial: https://docs.python.org/3/tutorial/
+
+### WebTigerPython
+
+- WebTigerPython: https://webtigerpython.ethz.ch
+
+### NumPy
+
+- NumPy: https://numpy.org
+- NumPy User Guide: https://numpy.org/doc/stable/user/
+
+### Matplotlib
+
+- Matplotlib: https://matplotlib.org
+- Matplotlib Tutorials: https://matplotlib.org/stable/tutorials/
+- Matplotlib Gallery: https://matplotlib.org/stable/gallery/
+- Matplotlib Cheat Sheets: https://matplotlib.org/cheatsheets/
+
+### SymPy
+
+- SymPy: https://www.sympy.org
+- SymPy Documentation: https://docs.sympy.org/latest/
 
 ## License
 
