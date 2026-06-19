@@ -75,7 +75,7 @@ The examples are organized in a recommended order, but feel free to explore them
 
 ### A. Plots
 
-The first topic introduces plotting with Matplotlib:
+The first topic introduces plotting with `Matplotlib`:
 
 - plotting a function
 - improving plot appearance
@@ -84,7 +84,7 @@ The first topic introduces plotting with Matplotlib:
 
 ### B. Symbolic Computation
 
-The second topic introduces symbolic mathematics with SymPy:
+The second topic introduces symbolic mathematics with `SymPy`:
 
 - symbolic differentiation
 - symbolic integration
@@ -94,11 +94,20 @@ The second topic introduces symbolic mathematics with SymPy:
 
 ### C. Solving Equations
 
-Will be added soon.
+The third topic introduces equation solving with SymPy:
 
-### D. Simulation
+- linear equations
+- quadratic equations
+- systems of equations
+- practice exercises
 
-Will be added soon.
+### D. Calculus
+
+Coming soon.
+
+### E. Simulations
+
+Coming soon.
 
 ## Resources
 
