@@ -53,6 +53,18 @@ examples/
 │   ├── 04_symbolic_integral.py
 │   └── 05_exercises.py
 │
+├── C_equations/
+│   ├── 01_linear_equation.py
+│   ├── 02_quadratic_equation.py
+│   ├── 03_system_of_equations.py
+│   └── 04_exercises.py
+│
+├── D_calculus/
+│   ├── 01_tangent_line.py
+│   ├── 02_extrema.py
+│   ├── 03_function_analysis.py
+│   └── 04_exercises.py
+│
 └── ...
 ```
 
@@ -103,7 +115,12 @@ The third topic introduces equation solving with SymPy:
 
 ### D. Calculus
 
-Coming soon.
+The fourth topic combines plotting and symbolic computation:
+
+- tangent lines
+- critical points
+- classification of extrema
+- practice exercises
 
 ### E. Simulations
 
