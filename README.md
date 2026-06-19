@@ -39,6 +39,14 @@ Instructions for a local Python installation will be added later.
 The examples are organized by topic and can be explored in order.
 
 ```text
+introduction/
+├── 01_variables_and_print.py
+├── 02_lists.py
+├── 03_loops.py
+├── 04_conditions.py
+├── 05_functions.py
+└── 06_exercises.py
+
 examples/
 ├── A_plots/
 │   ├── 01_plot_function.py
@@ -87,9 +95,24 @@ Then experiment by modifying the code:
 
 The examples are intentionally small and heavily commented.
 
-The examples are organized in a recommended order, but feel free to explore them at your own pace.
+If you are new to Python, start with the files in `introduction/`.
+They introduce only the basic Python ideas needed for the example folders:
+variables, lists, loops, conditions, functions, and short exercises.
+
+The files are organized by topic and can be explored in order.
 
 ## Examples
+
+### Introduction
+
+The introduction folder gives a very short first contact with Python:
+
+- variables and `print()`
+- lists
+- loops
+- conditions
+- functions
+- practice exercises
 
 ### A. Plots
 
