@@ -27,12 +27,7 @@ WebTigerPython provides a simple environment for experimenting with Python and i
 
 ### Option 2: Local Installation
 
-Install:
-
-- Python
-- VS Code (recommended)
-
-Instructions for a local Python installation will be added later.
+See [guides/local-python-setup.md](guides/local-python-setup.md).
 
 ## Repository Structure
 
